@@ -37,3 +37,12 @@ unzip -o divemaru-images.zip -d images/
 시설·강사를 촬영한 사진이 아니므로, 레이아웃 확인과 시안용으로만 쓰고
 오픈 전에 실제 촬영본으로 교체해 주세요. 특히 `instructor.jpg`는 대표 강사
 본인의 사진이 아니라 얼굴이 드러나지 않는 일반 다이버 이미지입니다.
+
+### course-experience.jpg 교체본 (2026-09-12)
+
+첫 버전은 인물의 눈이 어색해 뒷모습 구도로 다시 만들었습니다.
+아래 zip을 받아 `images/course-experience.jpg`를 덮어써 주세요.
+
+```
+https://d2ol7oe51mr4n9.cloudfront.net/user_31g0bJVM8yEuAOXKFEkhaflxq5p/7e7e50b9-f0a7-44ca-89d3-194e34fe83bd.zip
+```
