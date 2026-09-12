@@ -21,10 +21,11 @@
 ## 임시 이미지 (2026-09-12)
 
 실제 촬영본이 준비되기 전 임시로 쓸 8장을 위 파일명 그대로 만들어 두었습니다.
+인물이 등장하는 사진은 모두 한국인으로 생성했습니다.
 아래 zip을 내려받아 이 폴더에 풀면 바로 반영됩니다.
 
 ```
-https://d2ol7oe51mr4n9.cloudfront.net/user_31g0bJVM8yEuAOXKFEkhaflxq5p/8f7e8dd9-95dd-48e5-9ec0-99be401264ca.zip
+https://d2ol7oe51mr4n9.cloudfront.net/user_31g0bJVM8yEuAOXKFEkhaflxq5p/b7300cec-bd19-4026-ab56-fda7fc720af0.zip
 ```
 
 ```bash
@@ -35,4 +36,4 @@ unzip -o divemaru-images.zip -d images/
 **주의 — 이 8장은 AI로 생성한 이미지입니다.** 실제 감포 해역이나 다이브마루의
 시설·강사를 촬영한 사진이 아니므로, 레이아웃 확인과 시안용으로만 쓰고
 오픈 전에 실제 촬영본으로 교체해 주세요. 특히 `instructor.jpg`는 대표 강사
-본인의 사진이 아니라 얼굴이 보이지 않는 일반 다이버 이미지입니다.
+본인의 사진이 아니라 얼굴이 드러나지 않는 일반 다이버 이미지입니다.
